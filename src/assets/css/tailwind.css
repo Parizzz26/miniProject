@@ -2,6 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-
-@import '@components/product-card/style.css';
-@import '@components/banner/style.css';
