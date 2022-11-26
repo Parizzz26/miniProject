@@ -1,7 +1,5 @@
 import React from 'react';
-//import { Layout } from 'antd';
 
-//const { Content} = Layout;
 const Invoice = () => {
   return (
     <>
@@ -26,32 +24,6 @@ const Invoice = () => {
         </div>
       </div>
     </div>
-    {/* <div className="grid grid-cols-1 gap-4 place-items-center h-auto">
-      <div class="group block mx-auto shadow-lg space-y-3 flex flex-col space-y-4 bg-white ring-2 ring-kedua rounded text-center w-5/6 h-4/5">
-        <div className="md:flex grid gap-x-8 gap-y-4 grid-cols-3 items-center justify-between md:px-10 px-7 text-sm font-semibold">
-        oke
-        </div>
-      </div>
-    </div> */}
-    {/* <Layout>
-    <Content
-      className="site-layout"
-      style={{
-        padding: '50px 50px 50px 50px',
-        marginTop: 64,
-      }}
-    >
-      <div
-        className="site-layout-background"
-        style={{
-          padding: 0,
-          minHeight: 380,
-        }}
-      >
-        Content
-      </div>
-    </Content>
-    </Layout> */}
     </>
   )
 }
